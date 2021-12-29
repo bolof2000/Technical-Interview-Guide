@@ -1,0 +1,138 @@
+
+k
+java:S1149C"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ
+l
+java:S1149’"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ
+l
+java:S1149Ô"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ
+g
+java:S1149›"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(™ù 
+g
+java:S1149œ"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ËäúÙ
+f
+java:S1149§"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(óúŒ
+l
+java:S1149•"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ
+o
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ÿ™Æ–
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ç’¤™
+O
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(½Ö²’ûÿÿÿÿ
+o
+java:S30123"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¶×Úò
+t
+java:S30127"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(‹Ì·ûÿÿÿÿ
+W
+java:S1126:"AReplace this if-then-else statement by a single return statement.(ÔÙÿŞ
+V	java:S125a"<This block of commented-out lines of code should be removed.(ºÃ…Õûÿÿÿÿ
+O
+java:S2864r"4Iterate over the "entrySet" instead of the "keySet".(û‹éúÿÿÿÿ
+0
+java:S2178€"Correct this "|" to "||".(È™¶ó
+X
+java:S1126"AReplace this if-then-else statement by a single return statement.(ò¢½Ô
+T	java:S106Ë"9Replace this use of System.out or System.err by a logger.(áòÅŒşÿÿÿÿ
+T	java:S106Í"9Replace this use of System.out or System.err by a logger.(áòÅŒşÿÿÿÿ
+O	java:S106™"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ
+n
+java:S3776Ë"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(ÊâÔŒüÿÿÿÿ
+8
+java:S1116†"Remove this empty statement.(ôŸìúÿÿÿÿ
+O	java:S106‰"9Replace this use of System.out or System.err by a logger.(Îÿì€
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(¨è¿ÿÿÿÿÿ
+T
+java:S1854œ"8Remove this useless assignment to local variable "temp".(†¦¤õÿÿÿÿÿ
+E
+java:S1481œ")Remove this unused "temp" local variable.(†¦¤õÿÿÿÿÿ
+T	java:S106™"9Replace this use of System.out or System.err by a logger.(¼±¿„úÿÿÿÿ
+O	java:S106¿"9Replace this use of System.out or System.err by a logger.(ÀÜ¨
+T	java:S106ä"9Replace this use of System.out or System.err by a logger.(Å´§¡ıÿÿÿÿ
+R
+java:S1854"6Remove this useless assignment to local variable "l1".(‹­õäıÿÿÿÿ
+R
+java:S1854“"6Remove this useless assignment to local variable "l2".(Ñüàãÿÿÿÿÿ
+S
+java:S1854ß"7Remove this useless assignment to local variable "mid".(¢‚²¤øÿÿÿÿ
+S
+java:S1854õ"7Remove this useless assignment to local variable "mid".(¢‚²¤øÿÿÿÿ
+`
+java:S2175å"DA "Map<String, Integer>" cannot contain a "char" in a "String" type.(ò¬ú»ùÿÿÿÿ
+`
+java:S2175å"DA "Map<String, Integer>" cannot contain a "char" in a "String" type.(ò¬ú»ùÿÿÿÿ
+[
+java:S2175æ"DA "Map<String, Integer>" cannot contain a "char" in a "String" type.(Œ†ÜÇ
+`
+java:S2175è"DA "Map<String, Integer>" cannot contain a "char" in a "String" type.(——¾¿şÿÿÿÿ
+N	java:S106ö"9Replace this use of System.out or System.err by a logger.(ƒÚáB
+I
+java:S1135»	"2Complete the task associated to this TODO comment.(¹©íÊ
+N
+java:S1135À	"2Complete the task associated to this TODO comment.(¦¥ñÿøÿÿÿÿ
+N
+java:S1135Ê	"2Complete the task associated to this TODO comment.(“’´›ùÿÿÿÿ
+M
+java:S1854à	"6Remove this useless assignment to local variable "lb".(Ãë º
+L
+java:S1854ß	"6Remove this useless assignment to local variable "la".(£å‚e
+I
+java:S1135Ü	"2Complete the task associated to this TODO comment.(åäÆ
+=
+java:S1481ß	"'Remove this unused "la" local variable.(£å‚e
+>
+java:S1481à	"'Remove this unused "lb" local variable.(Ãë º
+N
+java:S1135î	"2Complete the task associated to this TODO comment.(“ëëšúÿÿÿÿ
+I
+java:S1135ù	"2Complete the task associated to this TODO comment.(ƒ›¿´
+R
+java:S1854ƒ
+"6Remove this useless assignment to local variable "l2".(ÕÄØ±ÿÿÿÿÿ
+M
+java:S1854‚
+"6Remove this useless assignment to local variable "l1".(®¿¨ó
+>
+java:S1481‚
+"'Remove this unused "l1" local variable.(®¿¨ó
+C
+java:S1481ƒ
+"'Remove this unused "l2" local variable.(ÕÄØ±ÿÿÿÿÿ
+E
+java:S5413Ï
+")Verify that "remove()" is used correctly.(¬ö€çùÿÿÿÿ
+T	java:S106÷
+"9Replace this use of System.out or System.err by a logger.(Õœ¤ÿÿÿÿÿ
+W	java:S125ø
+"<This block of commented-out lines of code should be removed.(÷¦ Øşÿÿÿÿ
+W	java:S125ı
+"<This block of commented-out lines of code should be removed.(‰”Ãşÿÿÿÿ
+W	java:S125ÿ
+"<This block of commented-out lines of code should be removed.(ñ§É‘ûÿÿÿÿ
+R	java:S125‚"<This block of commented-out lines of code should be removed.(à“¼Ö
+R	java:S125„"<This block of commented-out lines of code should be removed.(ƒ¶—Õ
+W	java:S125ˆ"<This block of commented-out lines of code should be removed.(ºÇ¥ºüÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(—Àº…ûÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(©ê»Ë
+R	java:S125“"<This block of commented-out lines of code should be removed.(²ğˆç
+W	java:S125–"<This block of commented-out lines of code should be removed.(ŞÛº şÿÿÿÿ
+R	java:S125™"<This block of commented-out lines of code should be removed.(ŒœÑ
+W	java:S125œ"<This block of commented-out lines of code should be removed.(Ü£¦Êúÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(ïÕ„óúÿÿÿÿ
+W	java:S125 "<This block of commented-out lines of code should be removed.(¶ÌıËúÿÿÿÿ
+Q	java:S125¢"<This block of commented-out lines of code should be removed.(ƒä#
+R	java:S125¥"<This block of commented-out lines of code should be removed.(›üçœ
+u
+java:S2293‹	"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ãû‡®øÿÿÿÿ
+`
+java:S1192"JDefine a constant instead of duplicating this literal "[^a-zA-Z]" 3 times.(Òÿ·ï
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àí¼Ôıÿÿÿÿ
+g	java:S117Ó	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¤Ïœ
+g	java:S117Ó	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¤Ïœ
+g	java:S117Ó	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¤Ïœ
+g	java:S117Ó	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—¤Ïœ
+u
+java:S1488ó"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ùüúö
+
+java:S4165Ÿ"eRemove this useless assignment; "current" already holds the assigned value along all execution paths.(ôÍ“–ıÿÿÿÿ
+_
+java:S3824ê	"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(’Æ¡§

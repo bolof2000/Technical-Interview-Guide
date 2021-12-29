@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="methods">
+    <test verbose="2" preserve-order="true" name="/Volumes/Projects/Interviewguide/src/test/java/org/example/SolutionsTest.java">
+        <classes>
+            <class name="org.example.SolutionsTest">
+                <methods>
+                    <include name="isAnagram02"/>
+                    <include name="reverseOnlyLetters03"/>
+                    <include name="validPalindrome07"/>
+                    <include name="twoSum16"/>
+                    <include name="validParethesis23"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

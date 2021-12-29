@@ -1,0 +1,31 @@
+Components of any Systems to be design:
+
+Load Balancer
+
+CDN
+
+Caching
+
+Queue System
+
+Concurrency
+
+
+Steps to answering systems design questions:
+
+1) Requirement Gathering :
+    Functional Requirement:
+        What the systems must do
+
+    Non-Functional Requirement
+        How the systems should Behave
+
+Clarify questions base on the following areas:
+
+1) Users/Customer of the systems
+2) Scale- Read and write:
+3) Performance
+4) Cost
+
+
+
